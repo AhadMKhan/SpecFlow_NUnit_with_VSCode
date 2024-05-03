@@ -1,0 +1,4 @@
+{
+    "SearchResultSelector": ".s-result-item .s-image",
+    "AddToCartButtonId" : "add-to-cart-button"
+}

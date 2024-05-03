@@ -1,0 +1,7 @@
+{
+    "CartCountId": "nav-cart-count",
+    "CartButtonId" : "sw-gtc",
+    "ProductNameXPath" : "//span[@class='a-truncate-cut']",
+    "PriceXPath" : "//span[@class='a-size-medium a-color-base sc-price sc-white-space-nowrap']"
+
+}
